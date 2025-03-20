@@ -43,10 +43,10 @@ src/
 1. **Install MongoDB**
 
     ```bash
-    # For Windows:
-    # Download and install from https://www.mongodb.com/try/download/community
+    For Windows:
+    Download and install from https://www.mongodb.com/try/download/community
 
-    # For Ubuntu:
+    For Ubuntu:
     sudo apt update
     sudo apt install mongodb
     ```
