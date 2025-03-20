@@ -54,7 +54,7 @@ src/
 2. **Clone the Repository**
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/05shourya/train8mvp_assignment
     cd train8mvp
     ```
 
